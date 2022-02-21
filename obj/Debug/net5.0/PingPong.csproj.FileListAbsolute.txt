@@ -1,0 +1,16 @@
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\bin\Debug\net5.0\PingPong.exe
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\bin\Debug\net5.0\PingPong.deps.json
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\bin\Debug\net5.0\PingPong.runtimeconfig.json
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\bin\Debug\net5.0\PingPong.runtimeconfig.dev.json
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\bin\Debug\net5.0\PingPong.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\bin\Debug\net5.0\ref\PingPong.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\bin\Debug\net5.0\PingPong.pdb
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.csproj.AssemblyReference.cache
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.AssemblyInfoInputs.cache
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.AssemblyInfo.cs
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\ref\PingPong.dll
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.pdb
+C:\Users\ericc\Desktop\Epicodus\Csharp and Dotnet\Ping-pong\obj\Debug\net5.0\PingPong.genruntimeconfig.cache
